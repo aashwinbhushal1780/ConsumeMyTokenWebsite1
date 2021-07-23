@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ConsumeAuthTokenWebSite1", ".", "{62AAADD4-241C-49B2-B290-DB1EE30E4C55}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55201"
+		Debug.AspNetCompiler.PhysicalPath = "..\ConsumeAuthTokenWebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55201\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55201"
+		Release.AspNetCompiler.PhysicalPath = "..\ConsumeAuthTokenWebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55201\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55201"
+		SlnRelativePath = "..\ConsumeAuthTokenWebSite1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AAADD4-241C-49B2-B290-DB1EE30E4C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AAADD4-241C-49B2-B290-DB1EE30E4C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF0E8F3-738A-49D9-8310-89C7FAC274B9}
+	EndGlobalSection
+EndGlobal
